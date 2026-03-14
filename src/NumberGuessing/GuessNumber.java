@@ -13,7 +13,7 @@ public class GuessNumber {
         int totalScore = 0;
         int rounds = 3; 
 
-        System.out.println("🎮Welcome to the Number Guessing Game!");
+        System.out.println("🎮 Hi, Welcome to the Number Guessing Game!");
         System.out.println("👉 Enter 0 anytime to EXIT the game.");
 
         for (int round = 1; round <= rounds; round++) {
