@@ -1,4 +1,4 @@
-package Project1Java;
+package ATMInterface;
 
 public class User {
 
